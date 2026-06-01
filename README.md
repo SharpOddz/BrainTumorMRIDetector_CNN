@@ -12,7 +12,7 @@ V1's architecture is a simple CNN struture and is used as the baseline for this 
 <img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/c381f11a-639a-45ad-b466-d3bfcb930df8" />
 
 #### Version 2 (V2) (Not finished tuning as of 5/31/2026)
-V2 adds additional convolutional layers while keeping spatial resolution larger. It also adds spatial dropout to the last 2 convolutional layers.
+V2 adds additional convolutional layers while keeping spatial resolution larger. It also adds spatial dropout to the last 3 convolutional layers.
 
 ## Results
 
