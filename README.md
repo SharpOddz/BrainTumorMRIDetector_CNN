@@ -1,4 +1,4 @@
-# BrainCancerDetector_CNN
+# BrainTumorMRIDetector_CNN
 Utilizing a Convolutional Neural Network to detect tumors in brain MRI images. There are several different versions of CNN architecture are used in this repository. Each version's arcitecture are detailed in the "Model Architecture and Hyperparameters" section and are compared in the result section. Version 1 (v1) was built first and used as a baseline for further versions. Once each version has been optimized it was run once on the test set. 
 
 ## Requirements
