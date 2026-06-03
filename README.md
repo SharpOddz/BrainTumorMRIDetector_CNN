@@ -15,7 +15,7 @@ V1's architecture is a simple CNN struture and is used as the baseline for this 
 There are several speed and performance optimizations made in V2, especially noticeable if using Google Colab to run the model. V2 adds additional convolutional layers while keeping spatial resolution larger. It also adds spatial dropout to the last convolutional layers. The training/val loss/accuracy history plot was lost and is not shown. The model trained for 71 epochs, with the best model restored at epoch 61. 
 
 #### Version 3 (V3) (Not finished as of 6/03/2025)
-Similar architecture to V2 but adds residual blocks.
+Similar architecture to V2
 
 ## Results
 
