@@ -7,7 +7,12 @@ Downloading of the dataset is required to run this model (The dataset can be fou
 ## Model Architecture & Hyperparameters
 
 #### Version 1 (V1)
-V1's architecture is a simple CNN struture and is used as the baseline for this project. It takes input image of 224x224x3 and goes through five convolutional layers (each with a 3x3 filter, doubling number of filters, batch normalization, ReLU activations, and 2x2 max pooling to halve spatial resolution). The sixth and final convolutional layer uses 512 1x1 filters before global average pooling that fully connects to the output layer. For preprocessing: image resizing to 224x224 and light data augmentations (small rotations of up to 5 degrees, small zooming in/out (0.1), and random contrast (0.1)). The training/validation loss/accuracy history plot is shown below for V1:
+V1's architecture is a simple CNN struture and is used as the baseline for this project. It takes input image of 224x224x3 and goes through five convolutional layers (each with a 3x3 filter, doubling number of filters, batch normalization, ReLU activations, and 2x2 max pooling to halve spatial resolution). The sixth and final convolutional layer uses 512 1x1 filters before global average pooling that fully connects to the output layer. For preprocessing: image resizing to 224x224 and light data augmentations (small rotations of up to 5 degrees, small zooming in/out (0.1), and random contrast (0.1)). 
+
+<img width="433" height="539" alt="image" src="https://github.com/user-attachments/assets/90706f6a-c46d-4710-b5a4-33f1f4a70ba7" />
+
+
+The training/validation loss/accuracy history plot is shown below for V1:
 
 <img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/c381f11a-639a-45ad-b466-d3bfcb930df8" />
 
