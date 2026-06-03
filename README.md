@@ -22,8 +22,11 @@ There are several speed and performance optimizations made in V2, especially not
 <img width="189" height="541" alt="image" src="https://github.com/user-attachments/assets/8efff88a-13ef-4dd5-a75a-4f6e4c9a4cea" />
 
 
-#### Version 3 (V3) (Not finished as of 6/02/2025)
-Similar architecture to V2
+#### Version 3 (V3) 
+Similar to V1 but with residual blocks. Regular dropout is used for the fully connected layer but no spatial dropout is used in V3.
+
+<img width="188" height="536" alt="image" src="https://github.com/user-attachments/assets/7da775ae-d064-4cab-b2ad-cbd61431e66b" />
+
 
 ## Results
 
