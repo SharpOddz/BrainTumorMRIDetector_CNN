@@ -26,10 +26,16 @@ For version 1 of this model (V1), the training, validation, and test accuracy wa
 <img width="456" height="129" alt="image" src="https://github.com/user-attachments/assets/98a0281f-7428-423f-819a-b55d8fedc137" />
 
 #### Version 2 (V2)
-For the V2 model the training, validation, and test accuracies were 99.03%, 96.43%, and 89.25% respectively. Corresponding confusion matrices are shown below:
+For the V2 model the training, validation, and test accuracies were 99.03%, 96.43%, and 89.25% respectively. Corresponding confusion matrices and test precision/recall/F1 scores are shown below:
 
 <img width="1960" height="590" alt="image" src="https://github.com/user-attachments/assets/43d7e83a-f5a7-4809-80cd-61b87fb4ceec" />
 <img width="461" height="136" alt="image" src="https://github.com/user-attachments/assets/ca7dcc56-ae51-4876-b8a5-6893b233f172" />
+
+#### Version 3 (V3)
+For the V3 model the training, validation, and test accuracies were 98.59%, 98.04%, and 90.50% respectively. Corresponding confusion matrices and test precision/recall/F1 scores are shown below:
+
+<img width="1960" height="590" alt="image" src="https://github.com/user-attachments/assets/a3a5b2a2-43eb-4096-994d-31021fc678a0" />
+<img width="461" height="139" alt="image" src="https://github.com/user-attachments/assets/d5402b7d-7cc1-4283-8e89-dcc1f95689be" />
 
 
 
