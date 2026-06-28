@@ -51,6 +51,10 @@ For the V3 model the training, validation, and test accuracies were 98.59%, 98.0
 <img width="461" height="139" alt="image" src="https://github.com/user-attachments/assets/d5402b7d-7cc1-4283-8e89-dcc1f95689be" />
 
 #### Version 4 (V4)
+For the V4 model the training, validation, and test accuracies were 98.67%, 96.61%, and 89.31% respectively. Corresponding confusion matrices and test precision/recall/F1 scores are shown below:
+
+<img width="1960" height="590" alt="image" src="https://github.com/user-attachments/assets/5b9c038b-cee6-4fbb-a295-624d37059a8c" />
+
 
 
 ## Dataset
